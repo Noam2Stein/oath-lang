@@ -1,3 +1,7 @@
+**Note:** This project is deprecated. It was a fun language-design experiment (though much of it is probably not in the repo), but it's unlikely I'll ever return to it.
+
+# Old README Contents
+
 `Oath` is an early-development, general-purpose programming language focused on semantic safety through compile-time value constraints.
 It helps you catch logic bugs and memory bugs at compile-time, generates optimal code, and provides great productivity through powerful abstractions.
 
